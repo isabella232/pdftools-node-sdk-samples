@@ -222,7 +222,7 @@ node src/protectpdf/protect-pdf.js
 
 #### Protect a PDF File with an Owner Password and Permissions
 
-The sample script ```protect-pdf-with-owner-password.js``` secures an input PDF file with owner password and allow certain access permissions such as copying and editing the contents, and printing of the document at low resolution.
+The sample script ```protect-pdf-with-owner-password.js``` secures an input PDF file with owner password and allows certain access permissions such as copying and editing the contents, and printing of the document at low resolution.
 
 ```$xslt
 node src/protectpdf/protect-pdf-with-owner-password.js
