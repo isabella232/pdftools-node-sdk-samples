@@ -31,7 +31,7 @@ const getPageRanges = () => {
 
 try {
     // Initial setup, create credentials instance.
-    const credentials =  PDFToolsSdk.Credentials
+    const credentials = PDFToolsSdk.Credentials
         .serviceAccountCredentialsBuilder()
         .fromFile("pdftools-api-credentials.json")
         .build();
